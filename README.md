@@ -76,17 +76,17 @@ value (dict of strings) : it can hold the values of ‘offer id’,’amount’,
 #Primary Questions for the project
  
 *  What is the proportion of clients who have completed the offers based on Gender?
-
+![Image of credit risk](Screen Shot 2020-08-16 at 2.36.09 PM.png)
 
 * What is the proportion of clients who have completed the offers based on their Age?
-
+![Image of credit risk](https://github.com/DarrelMoxam/Starbucks-Capstone-Challenge/blob/master/images/Screen%20Shot%202020-08-16%20at%202.36.19%20PM.png)
 
 * What is the proportion of clients who have completed the offers based on their Income Level?
 
-
+![Image of credit risk]()
 * What is the best performing model?
 RandomForestClassifier works best with a final accuracy score on the testing data being 0.7947 and final F-score on the testing data: 0.6121
-
+![Image of credit risk]()
 
 # Conclusion
 
