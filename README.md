@@ -72,6 +72,19 @@ person (str) : customer id.
 time (int) : time in hours since start of test.
 value (dict of strings) : it can hold the values of ‘offer id’,’amount’,’reward’ and/or ‘difficulty’.
    
+   
+ Primary Questions for the project
+What is the proportion of clients who have completed the offers based on Gender?
+Image for post
+2. What is the proportion of clients who have completed the offers based on their Age?
+Image for post
+3. What is the proportion of clients who have completed the offers based on their Income Level?
+Image for post
+4. What is the best performing model?
+RandomForestClassifier works best with a final accuracy score on the testing data being 0.7947 and final F-score on the testing data: 0.6121
+Image for post
+Conclusion
+In this project, we explored the Starbucks data set, analyzed, visualized to provide a solution to our queries along with creating 3 supervised machine learning models, and optimized the best one to answer our questions of interest. The model can be used to drive the necessary steps to decide on how to go about promoting offers to customers.
 
 Medium BLOG post- https://medium.com/@mrmoxam/project-overview-8c4b42190383
 
