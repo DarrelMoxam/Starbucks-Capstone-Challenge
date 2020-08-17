@@ -73,18 +73,18 @@ time (int) : time in hours since start of test.
 value (dict of strings) : it can hold the values of ‘offer id’,’amount’,’reward’ and/or ‘difficulty’.
    
    
-Primary Questions for the project
+#Primary Questions for the project
  
-#### 1. What is the proportion of clients who have completed the offers based on Gender?
+*  What is the proportion of clients who have completed the offers based on Gender?
 
 
-#### 2. What is the proportion of clients who have completed the offers based on their Age?
+2. What is the proportion of clients who have completed the offers based on their Age?
 
 
-#### 3. What is the proportion of clients who have completed the offers based on their Income Level?
+ 3. What is the proportion of clients who have completed the offers based on their Income Level?
 
 
-### 4. What is the best performing model?
+ 4. What is the best performing model?
 RandomForestClassifier works best with a final accuracy score on the testing data being 0.7947 and final F-score on the testing data: 0.6121
 
 
