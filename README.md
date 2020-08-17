@@ -25,6 +25,18 @@ itertools
 # Project Motivation
 This project part of my Data Science Nanodegree, and the objective is to try to find how Starbucks customers use the app, and how well is the current offers system. more importantly, to find patterns and show when and where to give specific offer to a specific customer. 
 
+# Problem Statements
+We will be exploring the Starbuck's Dataset which simulates how people make purchasing decisions and how those decisions are influenced by promotional offers.
+There are three types of offers that can be sent: buy-one-get-one (BOGO), discount, and informational. In a BOGO offer, a user needs to spend a certain amount to get a reward equal to that threshold amount. In a discount, a user gains a reward equal to a fraction of the amount spent. In an informational offer, there is no reward, but neither is there a required amount that the user is expected to spend. Offers can be delivered via multiple channels.
+What is the proportion of clients who have completed the offers based on Gender?
+
+2. What is the proportion of clients who have completed the offers based on their Age?
+3. What is the proportion of clients who have completed the offers based on their Income Level?
+4. What is the best performing model?
+# Metrics 
+I will use accuracy and F-score metrics for comparision and to test out the performance of the models.
+Accuracy measures how well a model correctly predicts whether an offer is successful. However, if the percentage of successful or unsuccessful offers is very low, accuracy is not a good measure of model performance. For this situation, evaluating a models' precision and recall provides better insight to its performance. I chose the F1-score metric because it is "a weighted average of the precision and recall metrics".
+
 # The strategy for solving this problem is as follows:
 
 Exploring and Visualizing the Data.
