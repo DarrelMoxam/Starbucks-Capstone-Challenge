@@ -78,17 +78,18 @@ value (dict of strings) : it can hold the values of ‘offer id’,’amount’,
 *  What is the proportion of clients who have completed the offers based on Gender?
 
 
-2. What is the proportion of clients who have completed the offers based on their Age?
+* What is the proportion of clients who have completed the offers based on their Age?
 
 
- 3. What is the proportion of clients who have completed the offers based on their Income Level?
+* What is the proportion of clients who have completed the offers based on their Income Level?
 
 
- 4. What is the best performing model?
+* What is the best performing model?
 RandomForestClassifier works best with a final accuracy score on the testing data being 0.7947 and final F-score on the testing data: 0.6121
 
 
 # Conclusion
+
 In this project, we explored the Starbucks data set, analyzed, visualized to provide a solution to our queries along with creating 3 supervised machine learning models, and optimized the best one to answer our questions of interest. The model can be used to drive the necessary steps to decide on how to go about promoting offers to customers.
 
 Medium BLOG post- https://medium.com/@mrmoxam/project-overview-8c4b42190383
